@@ -1,0 +1,298 @@
+
+<option value="N7. No.01">N7. No.01</option>
+<option value="N7. No.02">N7. No.02</option>
+<option value="N7. No.03">N7. No.03</option>
+<option value="N7. No.04">N7. No.04</option>
+<option value="N7. No.05">N7. No.05</option>
+<option value="N7. No.06">N7. No.06</option>
+<option value="N7. No.07">N7. No.07</option>
+<option value="N7. No.08">N7. No.08</option>
+<option value="N7. No.09">N7. No.09</option>
+<option value="N7. No.10">N7. No.10</option>
+<option value="N7. No.11">N7. No.11</option>
+<option value="N7. No.12">N7. No.12</option>
+<option value="N7. No.12A">N7. No.12A</option>
+<option value="N7. No.14">N7. No.14</option>
+<option value="N7. No.15">N7. No.15</option>
+<option value="N7. No.16">N7. No.16</option>
+
+<option value="N8. No.01">N8. No.01</option>
+<option value="N8. No.02">N8. No.02</option>
+<option value="N8. No.03">N8. No.03</option>
+<option value="N8. No.04">N8. No.04</option>
+<option value="N8. No.05">N8. No.05</option>
+<option value="N8. No.06">N8. No.06</option>
+<option value="N8. No.07">N8. No.07</option>
+<option value="N8. No.08">N8. No.08</option>
+<option value="N8. No.09">N8. No.09</option>
+<option value="N8. No.10">N8. No.10</option>
+<option value="N8. No.11">N8. No.11</option>
+<option value="N8. No.12">N8. No.12</option>
+<option value="N8. No.12A">N8. No.12A</option>
+<option value="N8. No.14">N8. No.14</option>
+<option value="N8. No.15">N8. No.15</option>
+<option value="N8. No.16">N8. No.16</option>
+
+<option value="N9. No.01">N7. No.01</option>
+<option value="N9. No.02">N7. No.02</option>
+<option value="N9. No.03">N7. No.03</option>
+<option value="N9. No.04">N7. No.04</option>
+<option value="N9. No.05">N7. No.05</option>
+<option value="N9. No.06">N7. No.06</option>
+<option value="N9. No.07">N7. No.07</option>
+<option value="N9. No.08">N7. No.08</option>
+<option value="N9. No.09">N7. No.09</option>
+<option value="N9. No.10">N7. No.10</option>
+<option value="N9. No.11">N7. No.11</option>
+<option value="N9. No.12">N7. No.12</option>
+<option value="N9. No.12A">N7. No.12A</option>
+<option value="N9. No.14">N7. No.14</option>
+<option value="N9. No.15">N7. No.15</option>
+<option value="N9. No.16">N7. No.16</option>
+
+<option value="N10. No.01">N10. No.01</option>
+<option value="N10. No.02">N10. No.02</option>
+<option value="N10. No.03">N10. No.03</option>
+<option value="N10. No.04">N10. No.04</option>
+<option value="N10. No.05">N10. No.05</option>
+<option value="N10. No.06">N10. No.06</option>
+<option value="N10. No.07">N10. No.07</option>
+<option value="N10. No.08">N10. No.08</option>
+<option value="N10. No.09">N10. No.09</option>
+<option value="N10. No.10">N10. No.10</option>
+<option value="N10. No.11">N10. No.11</option>
+<option value="N10. No.12">N10. No.12</option>
+<option value="N10. No.12A">N10. No.12A</option>
+<option value="N10. No.14">N10. No.14</option>
+<option value="N10. No.15">N10. No.15</option>
+<option value="N10. No.16">N10. No.16</option>
+
+<option value="N11. No.01">N11. No.01</option>
+<option value="N11. No.02">N11. No.02</option>
+<option value="N11. No.03">N11. No.03</option>
+<option value="N11. No.04">N11. No.04</option>
+<option value="N11. No.05">N11. No.05</option>
+<option value="N11. No.06">N11. No.06</option>
+<option value="N11. No.07">N11. No.07</option>
+<option value="N11. No.08">N11. No.08</option>
+<option value="N11. No.09">N11. No.09</option>
+<option value="N11. No.10">N11. No.10</option>
+<option value="N11. No.11">N11. No.11</option>
+<option value="N11. No.12">N11. No.12</option>
+<option value="N11. No.12A">N11. No.12A</option>
+<option value="N11. No.14">N11. No.14</option>
+<option value="N11. No.15">N11. No.15</option>
+<option value="N11. No.16">N11. No.16</option>
+
+<option value="N12. No.01">N12. No.01</option>
+<option value="N12. No.02">N12. No.02</option>
+<option value="N12. No.03">N12. No.03</option>
+<option value="N12. No.04">N12. No.04</option>
+<option value="N12. No.05">N12. No.05</option>
+<option value="N12. No.06">N12. No.06</option>
+<option value="N12. No.07">N12. No.07</option>
+<option value="N12. No.08">N12. No.08</option>
+<option value="N12. No.09">N12. No.09</option>
+<option value="N12. No.10">N12. No.10</option>
+<option value="N12. No.11">N12. No.11</option>
+<option value="N12. No.12">N12. No.12</option>
+<option value="N12. No.12A">N12. No.12A</option>
+<option value="N12. No.14">N12. No.14</option>
+<option value="N12. No.15">N12. No.15</option>
+<option value="N12. No.16">N12. No.16</option>
+
+<option value="N12A. No.01">N12A. No.01</option>
+<option value="N12A. No.02">N12A. No.02</option>
+<option value="N12A. No.03">N12A. No.03</option>
+<option value="N12A. No.04">N12A. No.04</option>
+<option value="N12A. No.05">N12A. No.05</option>
+<option value="N12A. No.06">N12A. No.06</option>
+<option value="N12A. No.07">N12A. No.07</option>
+<option value="N12A. No.08">N12A. No.08</option>
+<option value="N12A. No.09">N12A. No.09</option>
+<option value="N12A. No.10">N12A. No.10</option>
+<option value="N12A. No.11">N12A. No.11</option>
+<option value="N12A. No.12">N12A. No.12</option>
+<option value="N12A. No.12A">N12A. No.12A</option>
+<option value="N12A. No.14">N12A. No.14</option>
+<option value="N12A. No.15">N12A. No.15</option>
+<option value="N12A. No.16">N12A. No.16</option>
+
+<option value="N14. No.01">N14. No.01</option>
+<option value="N14. No.02">N14. No.02</option>
+<option value="N14. No.03">N14. No.03</option>
+<option value="N14. No.04">N14. No.04</option>
+<option value="N14. No.05">N14. No.05</option>
+<option value="N14. No.06">N14. No.06</option>
+<option value="N14. No.07">N14. No.07</option>
+<option value="N14. No.08">N14. No.08</option>
+<option value="N14. No.09">N14. No.09</option>
+<option value="N14. No.10">N14. No.10</option>
+<option value="N14. No.11">N14. No.11</option>
+<option value="N14. No.12">N14. No.12</option>
+<option value="N14. No.12A">N14. No.12A</option>
+<option value="N14. No.14">N14. No.14</option>
+<option value="N14. No.15">N14. No.15</option>
+<option value="N14. No.16">N14. No.16</option>
+
+<option value="N15. No.01">N10. No.01</option>
+<option value="N15. No.02">N10. No.02</option>
+<option value="N15. No.03">N10. No.03</option>
+<option value="N15. No.04">N10. No.04</option>
+<option value="N15. No.05">N10. No.05</option>
+<option value="N15. No.06">N10. No.06</option>
+<option value="N15. No.07">N10. No.07</option>
+<option value="N15. No.08">N10. No.08</option>
+<option value="N15. No.09">N10. No.09</option>
+<option value="N15. No.10">N10. No.10</option>
+<option value="N15. No.11">N10. No.11</option>
+<option value="N15. No.12">N10. No.12</option>
+<option value="N15. No.12A">N10. No.12A</option>
+<option value="N15. No.14">N10. No.14</option>
+<option value="N15. No.15">N10. No.15</option>
+
+N7. No.03
+N7. No.04
+N7. No.05
+N7. No.06
+N7. No.07
+N7. No.08
+N7. No.09
+N7. No.10
+N7. No.11
+N7. No.12
+N7. No.12A
+N7. No.14
+N7. No.15
+N7. No.16
+N8. No.01
+N8. No.02
+N8. No.03
+N8. No.04
+N8. No.05
+N8. No.06
+N8. No.07
+N8. No.08
+N8. No.09
+N8. No.10
+N8. No.11
+N8. No.12
+N8. No.12A
+N8. No.14
+N8. No.15
+N8. No.16
+N9. No.01
+N9. No.02
+N9. No.03
+N9. No.04
+N9. No.05
+N9. No.06
+N9. No.07
+N9. No.08
+N9. No.09
+N9. No.10
+N9. No.11
+N9. No.12
+N9. No.12A
+N9. No.14
+N9. No.15
+N9. No.16
+N10. No.01
+N10. No.02
+N10. No.03
+N10. No.04
+N10. No.05
+N10. No.06
+N10. No.07
+N10. No.08
+N10. No.09
+N10. No.10
+N10. No.11
+N10. No.12
+N10. No.12A
+N10. No.14
+N10. No.15
+N10. No.16
+N11. No.01
+N11. No.02
+N11. No.03
+N11. No.04
+N11. No.05
+N11. No.06
+N11. No.07
+N11. No.08
+N11. No.09
+N11. No.10
+N11. No.11
+N11. No.12
+N11. No.12A
+N11. No.14
+N11. No.15
+N11. No.16
+N12. No.01
+N12. No.02
+N12. No.03
+N12. No.04
+N12. No.05
+N12. No.06
+N12. No.07
+N12. No.08
+N12. No.09
+N12. No.10
+N12. No.11
+N12. No.12
+N12. No.12A
+N12. No.14
+N12. No.15
+N12. No.16
+N12A. No.01
+N12A. No.02
+N12A. No.03
+N12A. No.04
+N12A. No.05
+N12A. No.06
+N12A. No.07
+N12A. No.08
+N12A. No.09
+N12A. No.10
+N12A. No.11
+N12A. No.12
+N12A. No.12A
+N12A. No.14
+N12A. No.15
+N12A. No.16
+N14. No.01
+N14. No.02
+N14. No.03
+N14. No.04
+N14. No.05
+N14. No.06
+N14. No.07
+N14. No.08
+N14. No.09
+N14. No.10
+N14. No.11
+N14. No.12
+N14. No.12A
+N14. No.14
+N14. No.15
+N14. No.16
+N15. No.01
+N15. No.02
+N15. No.03
+N15. No.04
+N15. No.05
+N15. No.06
+N15. No.07
+N15. No.08
+N15. No.09
+N15. No.10
+N15. No.11
+N15. No.12
+N15. No.12A
+N15. No.14
+N15. No.15
+N15. No.16
+202cb962ac59075b964b07152d234b70
+
+INSERT INTO `profil`(`rt`, `no_ktp`, `nama_lengkap`, `sex`, `tempat_lahir`, `tgl_lahir`, `pendidikan`, `marital`, `agama`, `pekerjaan`, `no_rumah`, `foto`, `no_kontak`, `hubungan`, `email_warga`, `status_tinggal`, `nokk`) SELECT * from sheet1
